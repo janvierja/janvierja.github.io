@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Janvier Anonical
 description: Stuff that piqued my interests
+theme: just-the-docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "janvierja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: janvierja/janvierja.github.io # for github-metadata
